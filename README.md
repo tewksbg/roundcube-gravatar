@@ -13,10 +13,10 @@ Installation
 
 Intallation steps:
   - Via composer:
-    - Run `php composer.phar require "prodrigestivill/gravatar":"dev-master"`
+    - Run `php composer.phar require "tewksbg/gravatar":"dev-master"`
   - Via git:
     - Clone the repository:
-      `cd roundcube/plugins && git clone git@github.com:prodrigestivill/roundcube-gravatar.git gravatar`
+      `cd roundcube/plugins && git clone https://github.com/tewksbg/roundcube-gravatar.git gravatar`
   - Via tarball:
     - Download and extract the tarball into `roundcube/plugins` directory and rename the extracted directory to `gravatar`
 
